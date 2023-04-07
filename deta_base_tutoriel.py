@@ -1,7 +1,7 @@
 import os
 from deta import Deta
 from dotenv import load_dotenv
-
+# https://docs.deta.sh/docs/base/sdk
 load_dotenv(".env")   # DETA_KEY dans un fichier .env
 # exemple le fichier .env contient
 # DETA_KEY = lkhjgjgkfjfjdkd12334
